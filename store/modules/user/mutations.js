@@ -5,4 +5,7 @@ export default {
   set_surname: (state,val) =>{
     state.surname = val
   },
+  set_parent: (state, val) => {
+    state.parent = val
+  },  
 };

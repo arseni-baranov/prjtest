@@ -4,6 +4,7 @@
       <li class="nav-item"><router-link class="nav-link" to='/' exact>home</router-link></li>
       <li class="nav-item"><router-link class="nav-link" to='/user'>User</router-link></li>
       <li class="nav-item"><router-link class="nav-link" to='/profile'>Profile</router-link></li>
+      <li class="nav-item"><router-link class="nav-link" to='/general'>General</router-link></li>
     </ul>
     <nuxt></nuxt>
   </b-container>
